@@ -6,5 +6,5 @@ In this project i designed a complex timetable using html and basic css
 #Project Preview
 
 <p>
-	<img src="capture.PNG">
+	<img src="Capture.PNG">
 </p>
